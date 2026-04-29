@@ -160,7 +160,7 @@ The measure.py script identifies cups and measures their position and diameter:
 ### Debug Visualization
 Multi-stage preprocessing visualization to understand detection pipeline:
 
-![Debug Visualization](Outputs\measure\debug.png)
+![Debug Visualization](Outputs/measure/debug.png)
 
 *Left: Grayscale input | Center: Processed (CLAHE + Bilateral blur) | Right: Edge detection*
 
