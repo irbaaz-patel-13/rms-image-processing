@@ -1,0 +1,9 @@
+Capture #0  –  Trial2
+Image      : 640x480 px
+ppm        : 1.1085 px/mm
+Height     : 500.0 mm
+HFOV       : 60.0 deg
+dp=1.2  minDist=182  p1=60  p2=86  rMin=334  rMax=597  blur=3
+
+#         cx      cy      r    diam_mm  type
+----------------------------------------------

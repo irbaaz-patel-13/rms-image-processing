@@ -53,7 +53,7 @@ import numpy as np
 # A. PATHS
 # =============================================================================
 SCRIPT_DIR  = os.path.dirname(os.path.abspath(__file__))
-IMAGE_PATH  = os.path.join(SCRIPT_DIR, "..", "Images", "test.png")
+IMAGE_PATH  = os.path.join(SCRIPT_DIR, "..", "Images", "IMG_2857.JPG")
 RESULT_PATH = os.path.join(SCRIPT_DIR, "..", "Images", "result.png")
 
 # =============================================================================

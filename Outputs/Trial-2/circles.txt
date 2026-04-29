@@ -1,0 +1,5 @@
+Trial-1 – HoughCircles detections on IMG_2857.JPG
+Total detected: 0
+
+#     cx (px)     cy (px)     r (px)  
+------------------------------------

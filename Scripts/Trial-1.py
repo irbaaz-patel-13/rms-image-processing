@@ -25,8 +25,8 @@ from params import TRIAL_1 as P
 # PATHS
 # =============================================================================
 SCRIPT_DIR  = os.path.dirname(os.path.abspath(__file__))
-IMAGE_PATH  = os.path.join(SCRIPT_DIR, "..", "Images", "test.png")
-OUTPUT_DIR  = os.path.join(SCRIPT_DIR, "..", "Outputs", "Trial-1")
+IMAGE_PATH  = os.path.join(SCRIPT_DIR, "..", "Images", "IMG_2857.JPG")
+OUTPUT_DIR  = os.path.join(SCRIPT_DIR, "..", "Outputs", "Trial-2")
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 

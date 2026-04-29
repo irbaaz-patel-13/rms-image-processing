@@ -1,0 +1,10 @@
+Capture #0  –  Trial1
+Image      : 640x480 px
+ppm        : 1.1085 px/mm
+Height     : 500.0 mm
+HFOV       : 60.0 deg
+dp=0.8  minDist=211  p1=158  p2=32  rMin=44  rMax=131  blur=11
+
+#         cx      cy      r    diam_mm  type
+----------------------------------------------
+0        202     170     45       81.2  Pint

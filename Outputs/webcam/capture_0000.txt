@@ -1,0 +1,12 @@
+Capture #0
+Image          : 640x480 px
+Camera height  : 460.0 mm
+HFOV           : 60.0 deg
+ppm            : 1.2049 px/mm
+Brightness thr : 150
+Cups detected  : 2
+
+#      cx_px   cy_px   r_px   diam_mm     X_mm     Y_mm  type
+--------------------------------------------------------------
+0        196     121     50      83.0   -102.9    -98.8  Pint
+1        266     209     51      84.7    -44.8    -25.7  Pint
