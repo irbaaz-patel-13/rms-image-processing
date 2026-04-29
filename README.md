@@ -153,14 +153,14 @@ The system processes overhead camera feeds to detect cup rims:
 ### Detected Cups with Reference Board
 The measure.py script identifies cups and measures their position and diameter:
 
-![Result Visualization](Scripts/fig1_final.png)
+![Result Visualization](Outputs\measure\result.png)
 
 *Detected circles overlaid on the reference board with measurements*
 
 ### Debug Visualization
 Multi-stage preprocessing visualization to understand detection pipeline:
 
-![Debug Visualization](Scripts/fig2_final.png)
+![Debug Visualization](Outputs\measure\debug.png)
 
 *Left: Grayscale input | Center: Processed (CLAHE + Bilateral blur) | Right: Edge detection*
 
